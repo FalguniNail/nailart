@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nailart/static/css/main.eabcd0e9.css",
-    "main.js": "/nailart/static/js/main.4f8b1b6a.js",
+    "main.js": "/nailart/static/js/main.ca69b802.js",
     "static/js/453.d5920f92.chunk.js": "/nailart/static/js/453.d5920f92.chunk.js",
     "static/media/logo-cropped.png": "/nailart/static/media/logo-cropped.6650319c621163ec01cb.png",
     "static/media/elegant-pastel-pink-natural-manicure-scaled.jpg": "/nailart/static/media/elegant-pastel-pink-natural-manicure-scaled.291aac51784a179c6bad.jpg",
@@ -10,11 +10,11 @@
     "static/media/images.jpg": "/nailart/static/media/images.0bad2f3465b9fefbcafc.jpg",
     "index.html": "/nailart/index.html",
     "main.eabcd0e9.css.map": "/nailart/static/css/main.eabcd0e9.css.map",
-    "main.4f8b1b6a.js.map": "/nailart/static/js/main.4f8b1b6a.js.map",
+    "main.ca69b802.js.map": "/nailart/static/js/main.ca69b802.js.map",
     "453.d5920f92.chunk.js.map": "/nailart/static/js/453.d5920f92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eabcd0e9.css",
-    "static/js/main.4f8b1b6a.js"
+    "static/js/main.ca69b802.js"
   ]
 }
